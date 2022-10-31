@@ -1,4 +1,4 @@
-# heroku-quarkus-angular-docker
+# quarkus-angular-docker
 This is a demo project to deploy Quarkus/PostgreSQL and Angular/Nginx as containers on Heroku.
 
 ## Getting Started with script
